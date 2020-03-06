@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-starter-blog-theme",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "echo 'Doing nothing'"
+  },
+  "dependencies": {
+    
+  }
+}
